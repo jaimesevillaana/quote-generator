@@ -1,4 +1,5 @@
 body {
   font-family: sans-serif;
-  background-color: red;
+  background-color: #f0f0f0;
+  /* TODO: Implementar fondo aleatorio en JavaScript (futura feature) */
 }
